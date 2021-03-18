@@ -6,6 +6,10 @@
 		{"tag":"despedida",
 			"patrones":["adios","hasta la proxima","nos vemos"],
 			"respuestas":["cuidate","nos vemos pronto","te estare esperando"]
+		},
+		{"tag":"desayuno",
+			"patrones":["desayuno","desayunar","hambre"],
+			"respuestas":["cuidate","nos vemos pronto","te estare esperando"]
 		}
 	]
 }

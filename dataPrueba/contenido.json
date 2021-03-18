@@ -1,7 +1,7 @@
 {"contenido":[
 		{"tag":"saludo",
 			"patrones":["hola","un saludo","hello"],
-			"respuestas":["Hola que tal!","Como te va","un gusto de verte"]
+			"respuestas":["Hola que tal!","Como te va?","un gusto de verte"]
 		},
 		{"tag":"despedida",
 			"patrones":["adios","hasta la proxima","nos vemos"],

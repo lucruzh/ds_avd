@@ -1,4 +1,0 @@
-,Metricas,KNeighbors
-0,MejoresParametros,"{'metric': 'euclidean', 'n_neighbors': 1}"
-1,AccuracyTrain,98.29148318864168
-2,AccuracyTest,99.17184265010351

@@ -1,5 +1,0 @@
-,Metricas,KNeighbors
-0,MejoresParametros,"{'metric': 'manhattan', 'n_neighbors': 1}"
-1,AccuracyTrain,98.93876102877186
-2,AccuracyTest,99.06832298136646
-3,AccuracyReal,99.57627118644068

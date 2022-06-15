@@ -1,0 +1,4 @@
+,Metricas,XGBoost,KNeighbors,RedesNeuronales,SVC,GaussianNB,RandomF
+0,MejoresParametros,"{'learning_rate': 1, 'max_depth': 2, 'n_estimators': 100}","{'metric': 'euclidean', 'n_neighbors': 1}","{'activation': 'relu', 'alpha': 0.001, 'hidden_layer_sizes': (5, 50, 50, 9), 'learning_rate_init': 0.1, 'max_iter': 25, 'solver': 'adam'}",{'C': 1623.7767391887176},{'var_smoothing': 0.0005336699231206307},"{'criterion': 'entropy', 'max_depth': 20, 'max_features': 5, 'n_estimators': 150}"
+1,AccuracyTrain,99.92805966643175,99.84442500504677,99.63723840925913,99.87046632124353,93.46504272929144,99.53334230536302
+2,AccuracyTest,79.79274611398964,79.48186528497409,79.27461139896373,79.48186528497409,84.66321243523316,79.48186528497409

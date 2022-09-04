@@ -1,4 +1,4 @@
 ,Metricas,XGBoost,KNeighbors,RedesNeuronales,SVC,GaussianNB,RandomF
-0,MejoresParametros,"{'learning_rate': 1, 'max_depth': 5, 'n_estimators': 50}","{'metric': 'euclidean', 'n_neighbors': 3}","{'activation': 'relu', 'alpha': 0.03162277660168379, 'hidden_layer_sizes': (5, 50, 50, 9), 'learning_rate_init': 0.1, 'max_iter': 50, 'solver': 'adam'}",{'C': 88.58667904100814},{'var_smoothing': 0.03511191734215131},"{'criterion': 'gini', 'max_depth': 10, 'max_features': 5, 'n_estimators': 150}"
-1,AccuracyTrain,99.71355661881978,95.36175418784116,98.73429564287622,99.30900828655439,62.2720158238734,93.65007215007216
-2,AccuracyTest,73.39449541284404,74.31192660550458,73.85321100917432,73.85321100917432,77.52293577981652,73.39449541284404
+0,MejoresParametros,"{'learning_rate': 1, 'max_depth': 5, 'n_estimators': 50}","{'metric': 'euclidean', 'n_neighbors': 3}","{'activation': 'relu', 'alpha': 0.03162277660168379, 'hidden_layer_sizes': (5, 100, 9), 'learning_rate_init': 0.1, 'max_iter': 50, 'solver': 'adam'}",{'C': 88.58667904100814},{'var_smoothing': 0.03511191734215131},"{'criterion': 'gini', 'max_depth': 10, 'max_features': 5, 'n_estimators': 150}"
+1,AccuracyTrain,99.71355661881978,95.36175418784116,98.84790163058007,99.30900828655439,62.2720158238734,93.65007215007216
+2,AccuracyTest,73.39449541284404,74.31192660550458,74.77064220183486,73.85321100917432,77.52293577981652,73.39449541284404
